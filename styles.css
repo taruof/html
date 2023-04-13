@@ -1,0 +1,28 @@
+/* css header  */
+
+.samecolor{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline;
+}
+#specific{
+    color: green;
+}
+#first{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 3px solid red;
+    margin-top: 100px;
+    margin-left: 80px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    display: block;
+}
+a:hover{
+    color: tomato;
+}
+
